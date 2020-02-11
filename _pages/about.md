@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Benjamin S Hartmann earned a Bachelor of Science from the University of Minnesota in 2017 before arriving at IU. His work focuses on how people understand social boundaries and structures, and how conceptualizations of the social world impact political behaviors and life experiences.
+I earned earned a Bachelor of Science from the University of Minnesota in 2017 before arriving at IU. His work focuses on how people understand social boundaries and structures, and how conceptualizations of the social world impact political behaviors and life experiences.
 
 
 Research Interests
