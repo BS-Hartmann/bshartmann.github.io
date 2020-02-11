@@ -14,7 +14,7 @@ description              : &description "Doctoral Student"
 url                      : https://bs-hartmann.github.io/sociology/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bs-hartmann.github.io/sociology/"
-teaser                   : images/16903444_10202881963366773_2835708983157815519_o.jpg
+teaser                   : 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Benjamin Swartz Hartmann"
-  avatar           : "profile.png"
+  avatar           : "16903444_10202881963366773_2835708983157815519_o.jpg"
   bio              : "5'9", quick to anger, and loves dancing"
   location         : "Bloomington, IN"
   employer         :
