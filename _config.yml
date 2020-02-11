@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Benjamin Swartz Hartmann"
-  avatar           : "16903444_10202881963366773_2835708983157815519_o.jpg"
+  avatar           : #"16903444_10202881963366773_2835708983157815519_o.jpg"
   bio              : "5'9", quick to anger, and loves dancing"
   location         : "Bloomington, IN"
   employer         :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "BS-Hartmann"
+  github           : #"BS-Hartmann"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "BS_Hartmann"
+  twitter          : #"BS_Hartmann"
   vine             :
   weibo            :
   xing             :
