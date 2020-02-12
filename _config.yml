@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Researcher/Teacher"
-  avatar           : 'https://github.com/hartmannbs/sociology/blob/master/images/profile.png'
+  avatar           : 'profile.png'
   bio              : "Doctoral Student at Indiana University studying the intersection of race, politics, and culture. Computational Social Scientist"
   location         : "Bloomington, IN"
   employer         :
