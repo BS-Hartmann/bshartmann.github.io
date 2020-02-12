@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Researcher / Teacher"
+title                    : "Benjamin Swartz Hartmann"
 title_separator          : "-"
 name                     : &name "Benjamin Swartz Hartmann"
 description              : &description "Doctoral Student"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Benjamin Swartz Hartmann"
+  name             : "Researcher/Teacher"
   avatar           : 'https://github.com/hartmannbs/sociology/blob/master/images/profile.png'
   bio              : "Doctoral Student at Indiana University studying the intersection of race, politics, and culture. Computational Social Scientist"
   location         : "Bloomington, IN"
