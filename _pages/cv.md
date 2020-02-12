@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Sociology/History, University of Minnesota, 2017
+* Minor: Asian American Studies, Comparative Race and Ethnic Studies, Statistics
+* Ph.D in Sociology, Indiana University, 2024 (expected)
+* Minor: Network Science
 
 Work experience
 ======
