@@ -16,7 +16,7 @@ Furthermore, I am passionate about methodology and methodological education. I a
 
 I have previously wrote about students access to extracurricular activities in schools, Japanese American baseball players who played professionally in Japan in the 1950s, and the differential impacts of body scrutiny for gender nonconforming/gender conforming adolsences in the Twin Cities. And presented on people perceptions of hireability of GED vs High School graduates and multiracial identity.
 
-![GED/HS](/images/kernel_diff.png)
+![GED_HS](/images/kernel_diff.png)
 
 Research Interests
 ======
