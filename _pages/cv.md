@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * B.S. in Sociology/History, University of Minnesota, 2017
-*   Minor: Asian American Studies, Comparative Race and Ethnic Studies, Statistics
+  * Minor: Asian American Studies, Comparative Race and Ethnic Studies, Statistics
 * Ph.D in Sociology, Indiana University, 2024 (expected)
-*   Minor: Network Science
+  * Minor: Network Science
 
 Publications
 ======
