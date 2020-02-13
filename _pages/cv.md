@@ -12,11 +12,23 @@ redirect_from:
 Education
 ======
 * B.S. in Sociology/History, University of Minnesota, 2017
-* Minor: Asian American Studies, Comparative Race and Ethnic Studies, Statistics
+*   Minor: Asian American Studies, Comparative Race and Ethnic Studies, Statistics
 * Ph.D in Sociology, Indiana University, 2024 (expected)
-* Minor: Network Science
+*   Minor: Network Science
 
-Work experience
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Presentations
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Research experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -28,33 +40,25 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Awards
+======
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
