@@ -12,7 +12,7 @@ I earned earned a Bachelor of Science from the University of Minnesota in 2017 i
 
 Furthermore, I am passionate about methodology and methodological education. I am one of the co-coordinators for the Compuatioanl Social Science working group in the Sociology Department at Indiana University and coordinator workshops in statistical software for graduate students. I think about how sociologists can utilize computational lingiustics, quanitative text analysis, network analysis, and machine learning to test social theories and make sense of society. I am currently working on projects on using machine learning to automate coding for social texts (social media posts) and operationalizing ties in discourse/text networks. Additionally, I utilize schematic class/network analysis techniques in my substantive work on conceptualization of race. 
 
-![SVM results](/images/cand_real.jpeg)
+![SVM result](/images/cand_real.jpeg)
 
 I have previously wrote about students access to extracurricular activities in schools, Japanese American baseball players who played professionally in Japan in the 1950s, and the differential impacts of body scrutiny for gender nonconforming/gender conforming adolsences in the Twin Cities. And presented on people perceptions of hireability of GED vs High School graduates and multiracial identity.
 
