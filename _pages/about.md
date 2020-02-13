@@ -19,7 +19,7 @@ Furthermore, I am passionate about methodology and methodological education. I a
 
 Other Research 
 ======
-I have previously wrote about students access to extracurricular activities in schools, Japanese American baseball players who played professionally in Japan in the 1950s, and the differential impacts of body scrutiny for gender nonconforming/gender conforming adolsences in the Twin Cities. And presented research on people perceptions of hireability of GED vs High School graduates and multiracial identity. I am currently working with collaborators on projects about network effects on immigrant dental health and partnering decisions of second generation immigrant women.
+I have previously wrote about students access to extracurricular activities in schools, Japanese American baseball players who played professionally in Japan in the 1950s, and the differential impacts of body scrutiny for gender nonconforming/gender conforming adolsences in the Twin Cities. And presented original research on people perceptions of hireability of GED vs High School graduates and multiracial identity. I am currently working with collaborators on projects about network effects on immigrant dental health and partnering decisions of second generation immigrant women.
 
 ![GED_HS](/images/kernel_diff.png)
 
