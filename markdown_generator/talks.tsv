@@ -1,5 +1,15 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Racial Conceptualizations and the Political Consequences	Workshop	talk-1	"Workshop in Politics, Economy, and Culture"	2/21/20	"Bloomington, IN"		
+What's in a Diploma? Perceptions of Character & Employability based on Secondary Credentials	Workshop	talk-2	What's in a Diploma? Perceptions of Character & Employability based on Secondary Credentials	10/5/19	"Bloomington, IN"		with Nora J Weber
+"Comparing Scrutinized Embodiment	Between Gender Nonconforming and Cisgendered Adolescents"	Conference proceedings talk-1	talk-3	"Society for Women in	Sociology"	8/8/19	"New York, New York"		with Caroline V Brooks
+The Relationship of Racial Ancestry and Multiracial Identity	Conference proceedings talk	talk-4	Midwest Sociological Society	4/17/19	"Chicago, IL"		with Monica Heilman
+Bodies in Context: Experiences of Gender Nonconforming Adolescents	Conference proceedings talk	talk-5	Midwest Sociological Society	4/18/19	"Chicago, IL"		with Caroline V Brooks
+Asian America and Racialized Politics: Testing the Linked Fate Hypothesis	Conference proceedings talk	talk-6	"Navigating Through Intersections: Organizing and Advancing Asian	American Issues & Identity"	2/22/19	"Bloomington, IN"		
+The Relationship between Multiracial Identity and Socio-Economic Status	Poster Presentation	talk-7	Midwest Sociological Society	3/23/18	"Minneapolis, MN"		with Grace Peterson
+IHRC: Immigrant Stories and Teaching Immigration	Conference teaching workshop	talk-8	Midwest Sociological Society	3/23/18	"Minneapolis, MN"		with Erika Lee
+Anti-Muslim Americanism: Inventing the New Foreign Threat	Conference proceedings talk	talk-9	Sociology Research Institute	4/21/17	"Minneapolis, MN"		
+"Not your Grandma's History: Data, Statistics, and Computation	in Historical Research"	Workshop	talk-10	University of Minnesota Undergraduate Historical Society Research Symposium	4/20/17	"Minneapolis, MN"		
+Perceiving Threat: Xenophobia and American Anti-Muslim Sentiment	Poster Presentation	talk-11	Midwest Sociological Society	3/31/17	"Milwaukee, WI"		
+"Anti-Racism without Race: German Migration, Post-Nazi Racial Attitudes, and the Problematics of an American Perspective"	Lecture	talk-12	Center for German and European Studies	9/27/16	"Minneapolis, MN"		
+"Ò25 Years of Youth Activity Participation: Inequalities by Race, Class, and Gender?Ó "	Poster Presentation	talk-13	Sociology Research Institute	4/19/16	"Minneapolis, MN"		with Ann Meier and Ryan Larson
+"Ò25 Years of Youth Activity Participation: Inequalities by Race, Class, and Gender?Ó "	Conference proceedings talk	talk-14	Midwest Sociological Society	3/19/16	"Chicago, IL"		with Ann Meier and Ryan Larson
